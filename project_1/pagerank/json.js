@@ -1,0 +1,22 @@
+spiderJson = {"nodes":[
+{"weight":1,"rank":19.0, "id":4, "url":"http://python-data.dr-chuck.net/comments_42.html"},
+{"weight":1,"rank":10.874992629353518, "id":7, "url":"http://python-data.dr-chuck.net/known_by_42.html"},
+{"weight":1,"rank":19.0, "id":8, "url":"http://python-data.dr-chuck.net/opengeo"},
+{"weight":1,"rank":2.7200918682877923e-06, "id":11, "url":"http://python-data.dr-chuck.net/known_by_Fikret.html"},
+{"weight":1,"rank":2.7200918682877923e-06, "id":71, "url":"http://python-data.dr-chuck.net/known_by_Aeron.html"},
+{"weight":1,"rank":2.7200918682877923e-06, "id":75, "url":"http://python-data.dr-chuck.net/known_by_Johansson.html"},
+{"weight":2,"rank":5.437500560829129, "id":76, "url":"http://python-data.dr-chuck.net/known_by_Etinosa.html"},
+{"weight":1,"rank":2.7200918682877923e-06, "id":84, "url":"http://python-data.dr-chuck.net/known_by_Keiva.html"},
+{"weight":1,"rank":2.7200918682877923e-06, "id":90, "url":"http://python-data.dr-chuck.net/known_by_Kyran.html"},
+{"weight":1,"rank":0.0, "id":122, "url":"http://python-data.dr-chuck.net/known_by_Alanys.html"},
+{"weight":1,"rank":0.0, "id":157, "url":"http://python-data.dr-chuck.net/known_by_Danielle.html"}],
+"links":[
+{"source":1,"target":3,"value":3},
+{"source":1,"target":4,"value":3},
+{"source":1,"target":5,"value":3},
+{"source":1,"target":6,"value":3},
+{"source":1,"target":7,"value":3},
+{"source":1,"target":8,"value":3},
+{"source":3,"target":6,"value":3},
+{"source":3,"target":9,"value":3},
+{"source":3,"target":10,"value":3}]};
